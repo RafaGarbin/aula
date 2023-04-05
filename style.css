@@ -1,5 +1,10 @@
+*{margin: 0;
+padding: 20px;}
+
 .escola{background-image:linear-gradient(blueviolet, blue);
-    color: red;
+    color:black;
     display: flex;
+    align-items: center;
+    padding: 24 px 0;
     
 }
